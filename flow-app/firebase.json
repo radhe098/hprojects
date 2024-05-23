@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "site": "streakflow",
+
+    "public": "public",
+     "database": {
+    "rules": "database.rules.json"
+  }
+  }
+}
